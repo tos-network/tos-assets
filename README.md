@@ -4,28 +4,33 @@ All images, designs, banners or other templates used by the project are stored a
 
 Formats available are `svg` and `png`.
 
-Main logo color is `#02FFCF` (RGB: 2, 255, 207).
+Main logo colors are cyan blue `#3DBBE8` (RGB: 61, 187, 232) and deep blue `#0A3C7D` (RGB: 10, 60, 125).
 
 ## Logo Design
 
-The TOS logo features a **Lambda (Λ)** symbol at its center, encircled by a decorative ring with a Greek key (meander) pattern.
+The TOS logo features a **circular network topology** formed by interconnected nodes of varying sizes, representing a decentralized peer-to-peer network architecture.
 
 ### Design Elements
 
-- **Lambda Symbol (Λ)**: Represents the Greek letter lambda, symbolizing:
-  - **Transformation and Change**: In physics and mathematics, lambda often denotes wavelength and eigenvalues, representing fundamental transformations
-  - **Spartan Heritage**: The lambda was the emblem of ancient Sparta, symbolizing strength, unity, and excellence
-  - **Functional Programming**: In computer science, lambda represents anonymous functions and functional paradigms
+- **Network Nodes**: The circles represent individual nodes in the TOS network, symbolizing:
+  - **Decentralization**: Multiple nodes of varying sizes indicate a distributed system without a single point of control
+  - **Diversity**: Different node sizes represent various participants—validators, operators, and users—each contributing to network strength
+  - **Scalability**: The flexible arrangement demonstrates the network's ability to grow and adapt
 
-- **Greek Key Pattern**: The circular border features a traditional Greek meander pattern, symbolizing:
-  - **Infinity and Continuity**: The interlocking pattern represents eternal flow and interconnection
-  - **Unity and Harmony**: The continuous line reflects the interconnected nature of the network
-  - **Cultural Heritage**: Connects the project to ancient Greek principles of wisdom and innovation
+- **Interconnected Pathways**: The connecting lines between nodes symbolize:
+  - **Communication**: Direct links represent peer-to-peer connections and data flow
+  - **Collaboration**: Interconnected paths show how nodes work together to maintain network integrity
+  - **Resilience**: Multiple connection paths ensure network stability even if individual nodes disconnect
 
-- **Golden Color Scheme**: The rich gold color (#D4AF37) conveys:
-  - **Excellence and Quality**: Gold represents the highest standard and premium value
-  - **Permanence and Stability**: Associated with enduring value and trustworthiness
-  - **Prestige**: Reflects the ambitious and high-caliber nature of the TOS network
+- **Circular Formation**: The overall circular arrangement conveys:
+  - **Unity and Wholeness**: The complete circle represents the integrated TOS ecosystem
+  - **Continuity**: The unbroken formation symbolizes ongoing operation and perpetual consensus
+  - **Balance**: The distributed weight around the circle reflects the balanced, democratic nature of the network
+
+- **Dual-Color Scheme**: The cyan and deep blue color palette represents:
+  - **Trust and Security**: Blue traditionally conveys trustworthiness and technological reliability
+  - **Innovation**: The modern cyan highlights TOS's forward-thinking approach
+  - **Clarity**: The high contrast between shades ensures visibility across different mediums
 
 ## Logo Showcase
 
