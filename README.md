@@ -30,17 +30,17 @@ The TOS logo features a **Lambda (Λ)** symbol at its center, encircled by a dec
 ## Logo Showcase
 
 <p align="center">
-	<img src="https://github.com/tos-network/tos-assets/raw/master/logo/logo.png" width="200" height="200" />
+	<img src="https://github.com/tos-network/tos-assets/raw/master/tos/logo512x512.png" width="200" height="200" />
 </p>
 
 ### Available Sizes
 <p align="center">
-	<img src="https://github.com/tos-network/tos-assets/raw/master/logo/logo-16x16.png" width="16" height="16" />
-	<img src="https://github.com/tos-network/tos-assets/raw/master/logo/logo-32x32.png" width="32" height="32" />
-	<img src="https://github.com/tos-network/tos-assets/raw/master/logo/logo-48x48.png" width="48" height="48" />
-	<img src="https://github.com/tos-network/tos-assets/raw/master/logo/logo-64x64.png" width="64" height="64" />
-	<img src="https://github.com/tos-network/tos-assets/raw/master/logo/logo-128x128.png" width="128" height="128" />
-	<img src="https://github.com/tos-network/tos-assets/raw/master/logo/logo-256x256.png" width="256" height="256" />
+	<img src="https://github.com/tos-network/tos-assets/raw/master/tos/logo16x16.png" width="16" height="16" />
+	<img src="https://github.com/tos-network/tos-assets/raw/master/tos/logo32x32.png" width="32" height="32" />
+	<img src="https://github.com/tos-network/tos-assets/raw/master/tos/logo48x48.png" width="48" height="48" />
+	<img src="https://github.com/tos-network/tos-assets/raw/master/tos/logo64x64.png" width="64" height="64" />
+	<img src="https://github.com/tos-network/tos-assets/raw/master/tos/logo128x128.png" width="128" height="128" />
+	<img src="https://github.com/tos-network/tos-assets/raw/master/tos/logo256x256.png" width="256" height="256" />
 </p>
 
 Sizes: 16×16, 32×32, 48×48, 64×64, 128×128, 256×256, 512×512, 1024×1024
@@ -57,7 +57,7 @@ Sizes: 16×16, 32×32, 48×48, 64×64, 128×128, 256×256, 512×512, 1024×1024
 
 ### Transparent
 <p align="center">
-	<img src="https://github.com/tos-network/tos-assets/raw/master/banners/png/transparent_backgroud_black_logo.png" width="256" />
+	<img src="https://github.com/tos-network/tos-assets/raw/master/banners/png/transparent_background_black_logo.png" width="256" />
 	<img src="https://github.com/tos-network/tos-assets/raw/master/banners/png/transparent_background_green_logo.png" width="256" />
 	<img src="https://github.com/tos-network/tos-assets/raw/master/banners/png/transparent_background_white_logo.png" width="256" />
 </p>
