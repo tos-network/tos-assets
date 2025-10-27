@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TOS Network Banners - 测试</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background: #f0f0f0;
+        }
+        .banner-container {
+            margin: 30px 0;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h2 {
+            margin-top: 0;
+            color: #333;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 10px 0;
+        }
+        .checkered {
+            background-image:
+                linear-gradient(45deg, #ccc 25%, transparent 25%),
+                linear-gradient(-45deg, #ccc 25%, transparent 25%),
+                linear-gradient(45deg, transparent 75%, #ccc 75%),
+                linear-gradient(-45deg, transparent 75%, #ccc 75%);
+            background-size: 20px 20px;
+            background-position: 0 0, 0 10px, 10px -10px, -10px 0px;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>TOS Network Banners 预览</h1>
+
+    <div class="banner-container">
+        <h2>1. Black Background + White Logo</h2>
+        <img src="svg/black_background_white_logo.svg" alt="Black Background">
+        <img src="png/black_background_white_logo.png" alt="Black Background PNG">
+    </div>
+
+    <div class="banner-container">
+        <h2>2. White Background + Black Logo</h2>
+        <img src="svg/white_background_black_logo.svg" alt="White Background">
+        <img src="png/white_background_black_logo.png" alt="White Background PNG">
+    </div>
+
+    <div class="banner-container">
+        <h2>3. Green Background + Black Logo</h2>
+        <img src="svg/green_background_black_logo.svg" alt="Green Background">
+        <img src="png/green_background_black_logo.png" alt="Green Background PNG">
+    </div>
+
+    <div class="banner-container">
+        <h2>4. Gradient Green Background + White Logo</h2>
+        <img src="svg/gradient_green_background_white_logo.svg" alt="Gradient Green Background">
+        <img src="png/gradient_green_background_white_logo.png" alt="Gradient Green Background PNG">
+    </div>
+
+    <div class="banner-container checkered">
+        <h2>5. Transparent Background + Black Logo</h2>
+        <img src="svg/transparent_background_black_logo.svg" alt="Transparent Black">
+        <img src="png/transparent_background_black_logo.png" alt="Transparent Black PNG">
+    </div>
+
+    <div class="banner-container checkered">
+        <h2>6. Transparent Background + White Logo</h2>
+        <img src="svg/transparent_background_white_logo.svg" alt="Transparent White">
+        <img src="png/transparent_background_white_logo.png" alt="Transparent White PNG">
+    </div>
+
+    <div class="banner-container checkered">
+        <h2>7. Transparent Background + Green Logo</h2>
+        <img src="svg/transparent_background_green_logo.svg" alt="Transparent Green">
+        <img src="png/transparent_background_green_logo.png" alt="Transparent Green PNG">
+    </div>
+
+</body>
+</html>
